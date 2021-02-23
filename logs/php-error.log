@@ -1,0 +1,4 @@
+[23-Feb-2021 04:46:22 UTC] PHP Warning:  require(/work/public/../vendor/autoload.php): failed to open stream: No such file or directory in /work/public/index.php on line 24
+[23-Feb-2021 04:47:03 UTC] PHP Warning:  require(/work/public/../vendor/autoload.php): failed to open stream: No such file or directory in /work/public/index.php on line 24
+[23-Feb-2021 04:47:05 UTC] PHP Warning:  require(/work/public/../vendor/autoload.php): failed to open stream: No such file or directory in /work/public/index.php on line 24
+[23-Feb-2021 04:58:20 UTC] PHP Warning:  require(/work/public/../vendor/autoload.php): failed to open stream: No such file or directory in /work/public/index.php on line 24
